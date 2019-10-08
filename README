@@ -1,0 +1,22 @@
+HOW TO PLAY:
+
+Start by entering " make " to compile the files.
+
+Then, run the command:
+./skipbo false 4 5 deck0.txt
+
+false means the deck won't be shuffled (true will shuffle the deck).
+4 is the number of players.
+5 is the size of the players' stock piles. 
+
+The goal of the game is to empty your stock pile (same rules as the official SkipBo game).
+
+To move a card, a player enters:
+m 0 a
+for example to move the card from the stockpile to the build pile.
+
+Moving a card to the discard pile automatically ends the turn. 
+
+All SkipBo Rules are followed! Have fun.
+
+***Game created with a couple buddies for a class project***
